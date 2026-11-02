@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+
+table, th, td {
+  border: 1px solid black;
+  /* border-collapse: collapse; */
+      border-radius: 10px;
+      margin: 20px;
+
+}
+th,td {
+
+  border-style: dotted;
+  border: 2px solid red;
+     border-radius: 10px;
+     margin: 20px;
+     padding: 20px;
+
+}
